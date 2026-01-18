@@ -6,8 +6,9 @@
 [![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLO-green)](https://github.com/ultralytics/ultralytics)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Đề cương môn học: Phương pháp nghiên cứu khoa học (CS2205.SEP2025)** > **Học viên:** Nguyễn Huy Hoàn  
-> **MSSV:** 250101022  
+> **Đề cương môn học: Phương pháp nghiên cứu khoa học (CS2205.SEP2025)**
+> **Học viên:** Nguyễn Huy Hoàn  
+> **MSHV:** 250101022  
 > **Trường:** Đại học Công nghệ Thông tin (UIT) - ĐHQG TP.HCM
 
 ---
